@@ -5,6 +5,6 @@ Web devlopment:
 3.javascript
 MEAN STACK
 MERN STACK
-FULL STACK
+
 
 Thank you!
